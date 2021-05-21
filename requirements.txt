@@ -61,7 +61,7 @@ simplegeneric==0.8.1
 singledispatch==3.4.0.3                                                                                     
 six==1.10.0                                                                                                 
 sklearn==0.0                                                                                                
-tensorflow==0.11.0                                                                                          
+tensorflow==2.5.0                                                                                          
 terminado==0.6                                                                                              
 tflearn==0.2.2                                                                                              
 Theano==0.8.2                                                                                               
